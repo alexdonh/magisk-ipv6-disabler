@@ -1,0 +1,6 @@
+id=IPv6Disabler
+name=IPv6 Disabler
+version=v1.0
+versionCode=1
+author=Alex Do
+description=A simple module to disable IPv6 on your phone to prevent IPv6 leak.
